@@ -1,4 +1,4 @@
-![iCloud Photo Cleaner Logo](./logo.png)
+![iCloud Photo Cleaner Logo](./logo.webp)
 
 # iCloud Photo Cleaner
 
